@@ -1,0 +1,39 @@
+#a{background-color: green;}
+#b{background-color: red;}
+#c{background-color: #ffbf00;}
+#d{border: transparent;}
+
+#a:hover{
+    color: white;
+}
+#b:hover{
+    color: white;
+}
+#c:hover{
+    color: white;
+}
+#d:hover{
+    color: white;
+}
+#a,
+#b,
+#c,
+#d{
+    border-radius: 30px;
+    height: 50px;
+    width: 
+    
+}
+
+.btn{
+padding: 30px;]
+
+}
+body{
+    padding: 30px;
+    margin: 40px;
+    background-color: ;
+}
+p{
+    color: blueviolet;
+}
