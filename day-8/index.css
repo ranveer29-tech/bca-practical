@@ -1,7 +1,19 @@
 h1{
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    color: blue;
 }
 h2{color: #f90707;
-    
+}
+h3{
+    color: chartreuse;
+}
+h4{
+    color: brown;
+}
+h5{
+    color: coral;
+}
+h6{
+    color: gray;
 }
